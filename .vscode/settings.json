@@ -1,0 +1,7 @@
+{
+  // Disable GitHub Copilot completely in this workspace
+  "github.copilot.enable": false,
+
+  // Disable ghost text inline AI suggestions
+  "editor.inlineSuggest.enabled": false
+}
