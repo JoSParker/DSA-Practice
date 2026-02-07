@@ -1,11 +1,9 @@
 #include <iostream>
 using namespace std;
-void recur(int A[],int n){
+void recur(int A[],int n,int a= 0){
     int i=0;
     n= sizeof(A);
-    while(i<=n/2){
-        recur(A,i)
-    }
+    
 
 
 }

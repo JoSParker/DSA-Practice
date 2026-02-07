@@ -1,12 +1,2 @@
-# Ignore all C++ files in this workspace
-*.cpp
-*.c
-*.h
-*.hpp
-
-# Or ignore specific folders
-Basics/
-PatternPrinting/
-
-# Or ignore specific files
-4x4.cpp
+# Disable Copilot for all files in this folder and subfolders
+*

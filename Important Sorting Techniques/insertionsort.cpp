@@ -15,7 +15,7 @@ int main(){
         }
     }
     for(i=0;i<n;i++){
-        cout<<A[i]<<" ";
+        cout<<A[i]<<"";
     }
 }
 //The outer loop runs from index 1 to n-1, selecting elements from the unsorted part.
